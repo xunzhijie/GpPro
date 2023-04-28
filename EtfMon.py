@@ -192,7 +192,7 @@ if __name__ == "__main__":
     print(type(codes))
     now = datetime.datetime.now().strftime("%Y%m%d")
     EtfMon().insUpOrDown(now, 40)
-    rt=EtfMon().getBgColor(1)
+    #rt=EtfMon().getBgColor(1)
    #  dd=20230331
    # # d = datetime.strptime(d, '%Y-%m-%d').date()
    #  i=0
