@@ -193,9 +193,9 @@ if __name__ == "__main__":
     now = datetime.datetime.now().strftime("%Y%m%d")
     EtfMon().insUpOrDown(now, 40)
     #rt=EtfMon().getBgColor(1)
-   #  dd=20230331
+    dd=20230331
    # # d = datetime.strptime(d, '%Y-%m-%d').date()
-   #  i=0
+   #  i=0   
    #  while i<20:
    #      EtfMon().insUpOrDown(str(d), 40)
    #      d=d-1
